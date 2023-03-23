@@ -38,8 +38,7 @@ Automation for  https://www.saucedemo.com/ website prioritizing the purchase flo
 
 
 **Note :**
-1. The detailed test flow and bug details can be found in _**QATask1 file**_
-2. The project uses 3 different ways to access data just to show the variation
+1. The project uses 3 different ways to access data just to show the variation
    a. Login credential details from Testng xml file (TestNGTestSuite.xml)
    b. Personal details for filling the form is fetched from Testadata.json  
    c. Data parameters for passing invalid user details for login validation
